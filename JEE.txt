@@ -1,0 +1,4 @@
+Tomcat v-8
+JavaEE V-7
+Servlet V-3.1
+EJB V-3.2
